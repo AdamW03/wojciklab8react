@@ -1,0 +1,21 @@
+.mouseOver {
+    font-family: 'Arial', sans-serif;
+    margin: 40px;
+    padding: 20px;
+    background-color: #f4f4f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 80vw;
+}
+
+.mouseOver h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.mouseOver p {
+    font-size: 1.2rem;
+    transition: color 0.3s ease;
+}

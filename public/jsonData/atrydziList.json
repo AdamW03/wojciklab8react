@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Paul Atryda",
+    "role": "Książę i Kwisatz Haderach",
+    "description": "Paul Atryda, syn Leto Atrydy, jest głównym bohaterem sagi, który staje się liderem Fremenów i ostatecznie władcą Arrakis. Jego wyjątkowe zdolności, połączone z tajemniczą mocą Kwisatz Haderach, sprawiają, że jest kluczową postacią w historii tego świata.",
+    "imagePath": "/assets/paul.png"
+  },
+  {
+    "name": "Leto Atryda",
+    "role": "Książę Atrydów",
+    "description": "Leto Atryda, ojciec Paula, jest sprawiedliwym, ale zdecydowanym władcą Arrakis, który stara się utrzymać pokój na planecie wbrew intrygom wrogich rodów. Leto jest postacią tragiczną, której ambicje są oparte na honorze, a jego ostateczna śmierć jest kluczowym momentem w historii.",
+    "imagePath": "/assets/leto.png"
+  },
+  {
+    "name": "Jessica Atryda",
+    "role": "Lady Atryda, Matka Paula",
+    "description": "Jessica Atryda, matka Paula, jest członkinią zakonu Bene Gesserit, który miał na celu wychowanie Paula na przyszłego Kwisatz Haderacha. Choć początkowo miała rodzić córkę, jej decyzja o narodzinach Paula miała ogromne konsekwencje dla całego imperium.",
+    "imagePath": "/assets/jessica.png"
+  }
+]

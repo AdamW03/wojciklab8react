@@ -1,0 +1,63 @@
+.load_data_container {
+    font-family: 'Arial', sans-serif;
+    margin: 40px;
+    padding: 20px;
+    background-color: #f4f4f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 80vw;
+}
+
+.load_data_container h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.load_data_container p {
+    font-size: 1rem;
+    color: #444;
+    line-height: 1.5;
+}
+
+.load_data_container button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.load_data_container button:hover {
+    background-color: #45a049;
+}
+
+.load_data_container .error-text {
+    color: red;
+}
+
+.loaded_json {
+    text-align: left;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    margin-top: 20px;
+    max-height: 400px;
+    overflow-y: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #28a745;
+}
+
+.loaded_json pre {
+    white-space: pre-wrap;
+    max-width: 80vw;
+}

@@ -1,0 +1,107 @@
+.changeStyleContainer {
+    font-family: 'Arial', sans-serif;
+    margin: 40px;
+    padding: 20px;
+    background-color: #f4f4f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 80vw;
+}
+
+/* Styl dla motywu jasnego */
+.lightMode {
+    background-color: white;
+    color: black;
+    font-family: 'Arial', sans-serif;
+    transition: all 0.3s ease;
+    border-radius: 8px;
+}
+
+.lightMode .toggleButton {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.lightMode .toggleButton:hover {
+    background-color: #45a049;
+}
+
+.lightMode .textContainer {
+    padding: 20px;
+}
+
+.lightMode .title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.lightMode .paragraph {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.lightMode .list {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Styl dla motywu ciemnego */
+.darkMode {
+    background-color: #333;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    transition: all 0.3s ease;
+    border-radius: 8px;
+}
+
+.darkMode .toggleButton {
+    background-color: #555;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.darkMode .toggleButton:hover {
+    background-color: #777;
+}
+
+.darkMode .textContainer {
+    padding: 20px;
+}
+
+.darkMode .title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #f1f1f1;
+}
+
+.darkMode .paragraph {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    color: #ccc;
+}
+
+.darkMode .list {
+    list-style-type: disc;
+    margin-left: 20px;
+    color: #ddd;
+}
