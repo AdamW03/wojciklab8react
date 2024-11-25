@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Shaddam Corrino IV",
+    "role": "Imperator Przestrzeni Wewnętrznej",
+    "description": "Shaddam Corrino IV, ostatni z rodu Corrino, był imperialnym władcą, który rządził Przestrzenią Wewnętrzną przed obaleniem przez Paula Atrydę. Jego obsesja na punkcie władzy i manipulacje polityczne doprowadziły do upadku jego rodu.",
+    "imagePath": "/assets/shaddam.png"
+  },
+  {
+    "name": "Irulan Corrino",
+    "role": "Córka Shaddama, Żona Paula Atrydy",
+    "description": "Irulan Corrino, córka Shaddama IV, została zmuszona do małżeństwa z Paulem Atrydą w ramach politycznego sojuszu, mimo że jej serce należy do Władzicy Shani. Irulan staje się ważną postacią w polityce imperium po upadku rodu Corrino.",
+    "imagePath": "/assets/irulan.png"
+  }
+]
